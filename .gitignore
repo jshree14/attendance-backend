@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+attendance.db
+app/uploads/
+.idea/
+.vscode/
+.DS_Store
